@@ -131,7 +131,7 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 
 <img src="https://imgur.com/vAcSDpC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+</p>
 
 
 <br/>
@@ -171,9 +171,11 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 <h3>Seasonal patterns decompressed from August 9th 2018 - August 11th 2018 </h3>
 </p>
 
+
 <p align="center">
 This graph (along with the other above) shows a clear pattern of taxi orders spiking around midnight daily.
 </p>
+
 
 <p align="center">
 <img src="https://imgur.com/KMaHzsF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -185,7 +187,7 @@ This graph (along with the other above) shows a clear pattern of taxi orders spi
 
 
 
-</p>
+
 
 
 
