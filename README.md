@@ -127,6 +127,8 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 <br/>
 
 
+<p align="center">
+
 
 <img src="https://imgur.com/vAcSDpC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -171,7 +173,7 @@ This graph (along with the other above) shows a clear pattern of taxi orders spi
 
 
 
-
+</p>
 
 
 
