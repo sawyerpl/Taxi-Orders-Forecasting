@@ -88,7 +88,7 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 
 
-<h2>Models \& Tools</h2>
+<h2>Models & Tools</h2>
 
 
 
@@ -97,6 +97,7 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 	- ARIMA
 
 	- Auto Regression
+
 
 - Libraries
 
