@@ -137,15 +137,12 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 <h3 align="center">Seasonal trends decompressed</h3>
 
 
-<p align="center">
+
 - First graph shows seasonal patterns throughout the month of April 2018 
-</p>
-<p align="center">
+
 - Second graph shows seasonal patterns from April 1st 2018 - April 7th 2018
-</p>
-<p align="center">
+
 - Third graph shows seasonal patterns from June 10th 2018 - June 27th 2018
-</p>
 
 <p align="center">
 
