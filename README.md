@@ -136,9 +136,10 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 <br/>
 
-<p align="center">
-<h3>Seasonal trends decompressed</h3>
+<h3 slign="center">Seasonal trends decompressed</h3>
 
+
+<p align="center">
 - First graph shows seasonal patterns throughout the month of April 2018 
 
 - Second graph shows seasonal patterns from April 1st 2018 - April 7th 2018
@@ -156,9 +157,9 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 <br/>
 
-<p align="center">
-<h3>Trend, Seasonal and Residual graphics from March 1st 2018 - August 31st 2018</h3>
-</p>
+
+<h3 align="center">Trend, Seasonal and Residual graphics from March 1st 2018 - August 31st 2018</h3>
+
 
 <p align="center">
 <img src="https://imgur.com/JU0Yvv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -167,9 +168,9 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 <br/>
 
-<p align="center">
-<h3>Seasonal patterns decompressed from August 9th 2018 - August 11th 2018 </h3>
-</p>
+
+<h3 align="center">Seasonal patterns decompressed from August 9th 2018 - August 11th 2018 </h3>
+
 
 
 <p align="center">
