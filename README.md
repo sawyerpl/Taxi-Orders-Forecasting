@@ -101,7 +101,7 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 - Libraries
 
-	-Python
+	- Python
 
 	- Pandas
 
