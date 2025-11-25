@@ -136,6 +136,7 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 <br/>
 
+<p align="center">
 <h3>Seasonal trends decompressed</h3>
 
 - First graph shows seasonal patterns throughout the month of April 2018 
@@ -144,28 +145,39 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 - Third graph shows seasonal patterns from June 10th 2018 - June 27th 2018
 
+</p>
+
+<p align="center">
 
 <img src="https://imgur.com/59Y2Hpr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+</p>
 
 
 <br/>
 
+<p align="center">
 <h3>Trend, Seasonal and Residual graphics from March 1st 2018 - August 31st 2018</h3>
+</p>
 
-
+<p align="center">
 <img src="https://imgur.com/JU0Yvv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+</p>
 
 
 <br/>
 
+<p align="center">
 <h3>Seasonal patterns decompressed from August 9th 2018 - August 11th 2018 </h3>
+</p>
 
+<p align="center">
 This graph (along with the other above) shows a clear pattern of taxi orders spiking around midnight daily.
+</p>
 
+<p align="center">
 <img src="https://imgur.com/KMaHzsF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+</p>
 
 
 
