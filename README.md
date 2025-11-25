@@ -91,27 +91,21 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 <h2>Models & Tools</h2>
 
 
+- ARIMA
 
-- Model
+- Auto Regression
 
-	- ARIMA
+- Python
 
-	- Auto Regression
+- Pandas
 
+- NumPy
 
-- Libraries
+- Matplotlib
 
-	- Python
+- Skikit-learn
 
-	- Pandas
-
-	- NumPy
-
-	- Matplotlib
-
-	- Skikit-learn
-
-	- VS Code
+- VS Code
 
 
 
@@ -140,6 +134,13 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 <br/>
 
+<h3>Seasonal trends decompressed</h3>
+
+- First graph shows seasonal patterns throughout the month of April 2018 
+
+- Second graph shows seasonal patterns from April 1st 2018 - April 7th 2018
+
+- Third graph shows seasonal patterns from June 10th 2018 - June 27th 2018
 
 
 <img src="https://imgur.com/59Y2Hpr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -148,14 +149,7 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 <br/>
 
-
-
-<img src="https://imgur.com/foCEjbe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
-
-<br/>
-
+<h3>Trend, Seasonal and Residual graphics from March 1st 2018 - August 31st 2018</h3>
 
 
 <img src="https://imgur.com/JU0Yvv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -164,7 +158,9 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 <br/>
 
+<h3>Seasonal patterns from August 9th 2018 - August 11th 2018 </h3>
 
+This graph (along with the other above) shows a clear pattern of taxi orders spiking around midnight daily.
 
 <img src="https://imgur.com/KMaHzsF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
