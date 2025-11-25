@@ -158,7 +158,7 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 <br/>
 
-<h3>Seasonal patterns from August 9th 2018 - August 11th 2018 </h3>
+<h3>Seasonal patterns de decompressed from August 9th 2018 - August 11th 2018 </h3>
 
 This graph (along with the other above) shows a clear pattern of taxi orders spiking around midnight daily.
 
