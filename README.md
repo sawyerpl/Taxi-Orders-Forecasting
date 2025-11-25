@@ -28,9 +28,9 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 <b>Dataset</b>
 
-\\- Target column - num\_orders
+- Target column - num\_orders
 
-\\- Resample data by one hour
+- Resample data by one hour
 
 
 
@@ -42,47 +42,43 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 
 
+- <b>Data preprocessing</b> 
+
+	- Load and inspect the dataset
+
+	- Handle missing values
+
+	- Resample data by one-hour intervals
 
 
 
+- <b>Exploratory Data Analysis</b> 
 
-\\- <b>Data preprocessing</b> 
+	- Analyze trends and patterns in taxi orders
 
-&nbsp;	\\- Load and inspect the dataset
+	- Visualize hourly, daily and monthly patterns
 
-&nbsp;	\\- Handle missing values
-
-&nbsp;	\\- Resample data by one-hour intervals
-
-
-
-\\- <b>Exploratory Data Analysis</b> 
-
-&nbsp;	\\- Analyze trends and patterns in taxi orders
-
-&nbsp;	\\- Visualize hourly, daily and monthly patterns
-
-&nbsp;	\\- Identify peak times and seasonal trends
-
-
-
-
-
-\\- <b>Model Training</b> 
-
-&nbsp;	\\- Split dataset: 90% training, 10% test
-
-&nbsp;	\\- Train multiple models with hyperparameter tuning
-
-&nbsp;	\\- Compare models to find the best performing one
+	- Identify peak times and seasonal trends
 
 
 
 
 
-\\- <b>Model Evaluation</b> 
+- <b>Model Training</b> 
 
-&nbsp;	\\- Ensure RMSE ≤ 48
+	- Split dataset: 90% training, 10% test
+
+	- Train multiple models with hyperparameter tuning
+
+	- Compare models to find the best performing one
+
+
+
+
+
+- <b>Model Evaluation</b> 
+
+	- Ensure RMSE ≤ 48
 
 
 
@@ -96,25 +92,25 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 
 
-\\- Model
+- Model
 
-&nbsp;	\\- ARIMA
+	- ARIMA
 
-&nbsp;	\\- Auto Regression
+	- Auto Regression
 
-\\- Libraries
+- Libraries
 
-&nbsp;	\\-Python
+	-Python
 
-&nbsp;	\\- Pandas
+	- Pandas
 
-&nbsp;	\\- NumPy
+	- NumPy
 
-&nbsp;	\\- Matplotlib
+	- Matplotlib
 
-&nbsp;	\\- Skikit-learn
+	- Skikit-learn
 
-&nbsp;	\\- VS Code
+	- VS Code
 
 
 
@@ -129,13 +125,6 @@ The model’s performance is evaluated using Root Mean Squared Error (RMSE), and
 
 
 <h2>Data Visualizations</h2>
-
-
-
-
-
-
-
 
 
 
